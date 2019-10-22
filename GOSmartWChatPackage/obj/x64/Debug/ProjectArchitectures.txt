@@ -1,0 +1,1 @@
+C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\GOSmartWChatPackage.wapproj;x64

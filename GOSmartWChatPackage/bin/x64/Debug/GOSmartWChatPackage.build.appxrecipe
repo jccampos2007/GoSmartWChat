@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-I27NUU4</Machine>
+    <WindowsUser>usuario</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>6c3faafd-ed55-426e-acaa-23ee4e3ab0db</PackageIdentityName>
+    <PackageIdentityPublisher>CN=usuario</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\bin\x64\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GOSmartWChatPackage\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\cef.pak">
+      <PackagePath>\cef.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\cef_100_percent.pak">
+      <PackagePath>\cef_100_percent.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\cef_200_percent.pak">
+      <PackagePath>\cef_200_percent.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\cef_extensions.pak">
+      <PackagePath>\cef_extensions.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\chrome_elf.dll">
+      <PackagePath>\chrome_elf.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\d3dcompiler_47.dll">
+      <PackagePath>\d3dcompiler_47.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\devtools_resources.pak">
+      <PackagePath>\devtools_resources.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\icudtl.dat">
+      <PackagePath>\icudtl.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\libcef.dll">
+      <PackagePath>\libcef.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\libEGL.dll">
+      <PackagePath>\libEGL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\libGLESv2.dll">
+      <PackagePath>\libGLESv2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\am.pak">
+      <PackagePath>\locales\am.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ar.pak">
+      <PackagePath>\locales\ar.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\bg.pak">
+      <PackagePath>\locales\bg.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\bn.pak">
+      <PackagePath>\locales\bn.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ca.pak">
+      <PackagePath>\locales\ca.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\cs.pak">
+      <PackagePath>\locales\cs.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\da.pak">
+      <PackagePath>\locales\da.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\de.pak">
+      <PackagePath>\locales\de.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\el.pak">
+      <PackagePath>\locales\el.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\en-GB.pak">
+      <PackagePath>\locales\en-GB.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\en-US.pak">
+      <PackagePath>\locales\en-US.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\es-419.pak">
+      <PackagePath>\locales\es-419.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\es.pak">
+      <PackagePath>\locales\es.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\et.pak">
+      <PackagePath>\locales\et.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\fa.pak">
+      <PackagePath>\locales\fa.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\fi.pak">
+      <PackagePath>\locales\fi.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\fil.pak">
+      <PackagePath>\locales\fil.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\fr.pak">
+      <PackagePath>\locales\fr.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\gu.pak">
+      <PackagePath>\locales\gu.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\he.pak">
+      <PackagePath>\locales\he.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\hi.pak">
+      <PackagePath>\locales\hi.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\hr.pak">
+      <PackagePath>\locales\hr.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\hu.pak">
+      <PackagePath>\locales\hu.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\id.pak">
+      <PackagePath>\locales\id.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\it.pak">
+      <PackagePath>\locales\it.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ja.pak">
+      <PackagePath>\locales\ja.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\kn.pak">
+      <PackagePath>\locales\kn.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ko.pak">
+      <PackagePath>\locales\ko.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\lt.pak">
+      <PackagePath>\locales\lt.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\lv.pak">
+      <PackagePath>\locales\lv.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ml.pak">
+      <PackagePath>\locales\ml.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\mr.pak">
+      <PackagePath>\locales\mr.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ms.pak">
+      <PackagePath>\locales\ms.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\nb.pak">
+      <PackagePath>\locales\nb.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\nl.pak">
+      <PackagePath>\locales\nl.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\pl.pak">
+      <PackagePath>\locales\pl.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\pt-BR.pak">
+      <PackagePath>\locales\pt-BR.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\pt-PT.pak">
+      <PackagePath>\locales\pt-PT.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ro.pak">
+      <PackagePath>\locales\ro.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ru.pak">
+      <PackagePath>\locales\ru.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\sk.pak">
+      <PackagePath>\locales\sk.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\sl.pak">
+      <PackagePath>\locales\sl.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\sr.pak">
+      <PackagePath>\locales\sr.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\sv.pak">
+      <PackagePath>\locales\sv.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\sw.pak">
+      <PackagePath>\locales\sw.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\ta.pak">
+      <PackagePath>\locales\ta.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\te.pak">
+      <PackagePath>\locales\te.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\th.pak">
+      <PackagePath>\locales\th.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\tr.pak">
+      <PackagePath>\locales\tr.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\uk.pak">
+      <PackagePath>\locales\uk.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\vi.pak">
+      <PackagePath>\locales\vi.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\zh-CN.pak">
+      <PackagePath>\locales\zh-CN.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\locales\zh-TW.pak">
+      <PackagePath>\locales\zh-TW.pak</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\natives_blob.bin">
+      <PackagePath>\natives_blob.bin</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\snapshot_blob.bin">
+      <PackagePath>\snapshot_blob.bin</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\swiftshader\libEGL.dll">
+      <PackagePath>\swiftshader\libEGL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\swiftshader\libGLESv2.dll">
+      <PackagePath>\swiftshader\libGLESv2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\cef.redist.x64.3.3497.1841\CEF\v8_context_snapshot.bin">
+      <PackagePath>\v8_context_snapshot.bin</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.Common.69.0.0\CefSharp\x64\CefSharp.BrowserSubprocess.Core.dll">
+      <PackagePath>\CefSharp.BrowserSubprocess.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.Common.69.0.0\CefSharp\x64\CefSharp.BrowserSubprocess.exe">
+      <PackagePath>\CefSharp.BrowserSubprocess.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.Common.69.0.0\CefSharp\x64\CefSharp.Core.dll">
+      <PackagePath>\CefSharp.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.Common.69.0.0\CefSharp\x64\CefSharp.Core.xml">
+      <PackagePath>\CefSharp.Core.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.Common.69.0.0\CefSharp\x64\CefSharp.dll">
+      <PackagePath>\CefSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.Common.69.0.0\CefSharp\x64\CefSharp.XML">
+      <PackagePath>\CefSharp.XML</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.WinForms.69.0.0\CefSharp\x64\CefSharp.WinForms.dll">
+      <PackagePath>\CefSharp.WinForms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\packages\CefSharp.WinForms.69.0.0\CefSharp\x64\CefSharp.WinForms.XML">
+      <PackagePath>\CefSharp.WinForms.XML</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GoSmartWChat\bin\x64\Debug\GoSmartWChat.exe">
+      <PackagePath>GoSmartWChat\GoSmartWChat.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\VS.NET\GoSmartWChat\GoSmartWChat\bin\x64\Debug\GoSmartWChat.exe.config">
+      <PackagePath>GoSmartWChat\GoSmartWChat.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

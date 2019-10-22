@@ -1,0 +1,12 @@
+C:\VS.NET\GoSmartWChat\GoSmartWChat\bin\Debug\GoSmartWChat.exe.config
+C:\VS.NET\GoSmartWChat\GoSmartWChat\bin\Debug\GoSmartWChat.exe
+C:\VS.NET\GoSmartWChat\GoSmartWChat\bin\Debug\GoSmartWChat.pdb
+C:\VS.NET\GoSmartWChat\GoSmartWChat\bin\Debug\GoSmartWChat.xml
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.vbprojAssemblyReference.cache
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.Form1.resources
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.Resources.resources
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.vbproj.GenerateResource.cache
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.vbproj.CoreCompileInputs.cache
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.exe
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.xml
+C:\VS.NET\GoSmartWChat\GoSmartWChat\obj\Debug\GoSmartWChat.pdb
